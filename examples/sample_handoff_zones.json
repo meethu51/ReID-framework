@@ -1,0 +1,19 @@
+{
+  "zones": [
+    {
+      "camera_id": "cam1",
+      "zone_id": "cam1_right_handoff",
+      "type": "rect",
+      "xyxy": [500, 80, 635, 430],
+      "description": "Example public-safe handoff zone"
+    },
+    {
+      "camera_id": "cam2",
+      "zone_id": "cam2_left_handoff",
+      "type": "rect",
+      "xyxy": [5, 80, 140, 430],
+      "description": "Example public-safe handoff zone"
+    }
+  ]
+}
+

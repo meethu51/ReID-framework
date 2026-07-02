@@ -1,0 +1,42 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+outputs/
+runs/
+logs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.pt
+*.pth
+*.onnx
+*.engine
+*.trt
+*.jsonl
+*.log
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Credentials / private config (safety net)
+credentials*.json
+*_private.*
+*_secret.*
+rtsp_config.*
+

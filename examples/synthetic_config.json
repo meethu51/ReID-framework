@@ -1,0 +1,19 @@
+{
+  "description": "Public-safe synthetic demo configuration.",
+  "camera_ids": ["cam1", "cam2"],
+  "frame_width": 640,
+  "frame_height": 480,
+  "people": [
+    {
+      "person_id": "person_a",
+      "color_bgr": [80, 220, 80],
+      "start_camera": "cam1"
+    },
+    {
+      "person_id": "person_b",
+      "color_bgr": [220, 120, 80],
+      "start_camera": "cam2"
+    }
+  ]
+}
+
