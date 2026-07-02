@@ -6,6 +6,8 @@ MTS is a multi-camera person re-identification (ReID) system designed for enviro
 
 MTS addresses this by treating visual appearance as **one signal among many**: embedding similarity is combined with camera topology, temporal continuity, motion continuity, world-space proximity, and handoff-zone occupancy to make conservative, multi-frame-confirmed identity decisions.
 
+https://github.com/user-attachments/assets/80dd022e-09b1-4e48-9d22-9372f277a543
+
 ---
 
 ## System Architecture
