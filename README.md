@@ -331,4 +331,4 @@ MTS writes structured per-frame JSONL records alongside annotated video output f
 
 ---
 
-*Designed and developed by SigmaWaveAI.*
+*Designed and developed by Bhuvan Shrivastava. If you require this service please approach SigmaWaveAI.*
